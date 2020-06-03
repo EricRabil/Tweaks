@@ -1,0 +1,9 @@
+Package: com.ericrabil.dieoutlook
+Name: DieOutlook
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: OUTLOOK PLS START
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks

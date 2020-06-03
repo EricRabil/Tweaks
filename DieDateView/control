@@ -1,0 +1,9 @@
+Package: com.ericrabil.diedateview
+Name: DieDateView
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: Kills the lock screen date view
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks

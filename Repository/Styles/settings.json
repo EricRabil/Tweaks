@@ -1,0 +1,11 @@
+{
+    "name": "Eric's World",
+    "description": "Repository for all my bleeding-edge tweaks",
+    "tint": "#468391",
+    "cname": "cydia.ericrabil.com",
+    "maintainer": {
+        "name": "Eric Rabil",
+        "email": "ericjrabil@gmail.com"
+    },
+    "automatic_git": "true"
+}

@@ -1,0 +1,9 @@
+Package: com.ericrabil.diesidebar
+Name: DieSidebar
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Kills the sidebar on iPad home screens
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks

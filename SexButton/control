@@ -1,0 +1,10 @@
+Package: com.ericrabil.musica.skinny
+Name: Musica 2
+Depends: mobilesubstrate, firmware (>= 13.2), co.dynastic.ios.lib.flora, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.ericrabil.musica
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: remap battery case button to media controls
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks

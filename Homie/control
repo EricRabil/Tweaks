@@ -1,0 +1,9 @@
+Package: com.ericrabil.homie
+Name: Homie
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Eric Rabil
+Author: Eric Rabil
+Section: Tweaks

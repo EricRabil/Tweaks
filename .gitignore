@@ -1,0 +1,6 @@
+.theos
+debs
+*.tar.gz
+go.sh
+.DS_Store
+debbies
