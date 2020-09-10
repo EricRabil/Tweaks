@@ -1,0 +1,9 @@
+Package: com.ericrabil.workflow-extender
+Name: Workflow Extender
+Depends: mobilesubstrate, firmware (>= 13.2)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: API for injecting WFTrigger and WFAction at runtime
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
